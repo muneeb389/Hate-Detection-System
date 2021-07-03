@@ -21,3 +21,6 @@ That labels were used as benchmarks to train our model. The models we used were 
 In this project we aimed to build a model through recognizing patterns in the tweets that in turn can identify
 the offensive content on the social media and remove it so it doesn’t harm the society. 
 Hate content being automatically detected and removed would make the social platform a lot cleaner and useable
+
+Presentation of project is attached here:
+[Hate speech detection.pptx](https://github.com/muneeb389/Hate-Detection-System/files/6758684/Hate.speech.detection.pptx)
